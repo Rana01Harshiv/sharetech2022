@@ -1,0 +1,244 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+sharetech
+</name>
+</assembly>
+<members>
+<member name="T:sharetech.sharetechDataSet1.loginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1.membersinfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1.loginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1.membersinfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1.loginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1.membersinfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1TableAdapters.loginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1TableAdapters.membersinfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sharetech.sharetechDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(sharetech.sharetechDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(sharetech.sharetechDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(sharetech.sharetechDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sharetech.sharetechDataSet1TableAdapters.TableAdapterManager.UpdateAll(sharetech.sharetechDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sharetech.sharetechDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sharetech.sharetechDataSet.loginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet.loginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet.loginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sharetech.sharetechDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sharetech.sharetechDataSetTableAdapters.loginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sharetech.sharetechDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(sharetech.sharetechDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(sharetech.sharetechDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(sharetech.sharetechDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sharetech.sharetechDataSetTableAdapters.TableAdapterManager.UpdateAll(sharetech.sharetechDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sharetech.sharetechDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sharetech.sharetechDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sharetech.sharetechDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.loginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.membersinfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.transDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.stocksinfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.loginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.membersinfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.transRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.stocksinfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.loginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.membersinfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.transRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2.stocksinfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2TableAdapters.loginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2TableAdapters.membersinfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2TableAdapters.transTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2TableAdapters.stocksinfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sharetech.sharetechDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(sharetech.sharetechDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(sharetech.sharetechDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(sharetech.sharetechDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sharetech.sharetechDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sharetech.sharetechDataSet2TableAdapters.TableAdapterManager.UpdateAll(sharetech.sharetechDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sharetech.sharetechDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:sharetech.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:sharetech.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:sharetech.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

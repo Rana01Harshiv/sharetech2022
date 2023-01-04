@@ -1,0 +1,15 @@
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.Form1.resources
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.Resources.resources
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.vbproj.GenerateResource.Cache
+D:\sharetech\sharetech\bin\Debug\sharetech.exe.config
+D:\sharetech\sharetech\bin\Debug\sharetech.exe
+D:\sharetech\sharetech\bin\Debug\sharetech.pdb
+D:\sharetech\sharetech\bin\Debug\sharetech.xml
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.exe
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.xml
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.pdb
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.firstpage.resources
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.home.resources
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.membersinfo.resources
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.stocksinfo.resources
+D:\sharetech\sharetech\obj\x86\Debug\sharetech.Trans.resources
